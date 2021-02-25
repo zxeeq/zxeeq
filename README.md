@@ -1,4 +1,4 @@
-Hi im Zeeq! 🤪
+## Hi im Zeeq! 🤪
 
 
 Mainly doing Discord Bots in Discord Bot Maker but i wanna learn HTML n' CSS
