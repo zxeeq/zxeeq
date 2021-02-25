@@ -1,12 +1,12 @@
-## Hi im Zeeq! 🤪
+# Hi im Zeeq! 😎
 
 
 Mainly doing Discord Bots in Discord Bot Maker but i wanna learn HTML n' CSS
+I'm student in 6th grade class and i'm 11 years old!
+In free time I'm playing Fortnite with my friends!
 
-The following are some of the technologies that have picked my interest or that I use very often
+## My social medias 🌏
 
-・NODE
-・HTML
-・CSS
-・JS
-・PYHTON
+- Streaming and filming on <a href="https://www.youtube.com/channel/UCT0t-rc9vGasD-Gl1vHGtUQ">Youtube</a>
+- My personal <a href="https://discord.gg/Kvu3FncTxv">Discord</a>
+
