@@ -1,9 +1,10 @@
 # Hi im Zeeq! 😎
-<img src="https://cdn.discordapp.com/attachments/812033882433126440/814475331037036624/SUSSSY.png" alt="Zeeq.">**
+<img src="https://cdn.discordapp.com/attachments/812033882433126440/814475331037036624/SUSSSY.png" alt="Zeeq.">
 
 Mainly doing Discord Bots in Discord Bot Maker but i wanna learn HTML n' CSS
 I'm student in 6th grade class and i'm 11 years old!
 In free time I'm playing Fortnite with my friends!
+
 
 ## Mainly i'm proggraming in 💻
 
