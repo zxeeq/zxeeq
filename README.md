@@ -1,4 +1,4 @@
-#Hi! I'm zeeq. 
+**# Hi! I'm zeeq. 
 
 👌・Mainly doing discord bot in discord bot maker
 
@@ -8,7 +8,7 @@
 
 📺・Learning HTML and CSS
 
-##Some informations about me
+## Some informations about me
 
 Im zeeq. in real life Marceli. I have 11 years and i write code for fun :D
-I have my discord server and I love discord 💖
+I have my discord server and I love discord 💖**
