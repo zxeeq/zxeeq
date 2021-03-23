@@ -1,14 +1,14 @@
-**# Hi! I'm zeeq. 
+# **Hi! I'm zeeq. 
 
-👌・Mainly doing discord bot in discord bot maker
+**👌・Mainly doing discord bot in discord bot maker
 
-💖・Often do in batch or python
+**💖・Often do in batch or python
 
-🌊・Leaked C# source codes
+**🌊・Leaked C# source codes
 
-📺・Learning HTML and CSS
+**📺・Learning HTML and CS
 
-## Some informations about me
+## **Some informations about me
 
-Im zeeq. in real life Marceli. I have 11 years and i write code for fun :D
-I have my discord server and I love discord 💖**
+**Im zeeq. in real life Marceli. I have 11 years and i write code for fun :D
+**I have my discord server and I love discord 💖
