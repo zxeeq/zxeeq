@@ -1,5 +1,3 @@
-[banner]: https://mopsior.pl/images/readmeImage.png "My user readme Banner 🙂"
-![My user readme Banner 🙂][banner]
 
 # 👦🏻 About me
 I'm young polish developer, who is dynamically developing in new technologies! I build pages, discord bots and many more projects! Still learning and discovering new stuff!
